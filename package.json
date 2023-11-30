@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {
-    "@ant-design/plots": "^1.1.1",
+    "@ant-design/plots": "^2.0.0",
     "@antv/g2plot": "^2.4.20",
     "@babel/core": "^7.16.0",
     "@emotion/react": "^11.9.3",
@@ -61,7 +61,7 @@
     "html-webpack-plugin": "^5.5.0",
     "https-browserify": "^1.0.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^27.4.3",
+    "jest": "^29.0.0",
     "jest-resolve": "^27.4.2",
     "jest-watch-typeahead": "^1.0.0",
     "less": "^4.1.3",
